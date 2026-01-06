@@ -1,4 +1,4 @@
-# -Importance-of-Extracellular-Vimentin-in-the-Dynamics-of-Pathogen-Invasion
+# Importance of Extracellular Vimentin in the Dynamics of Pathogen Invasion
 Final Project work of Jannatun Irana Ira for the MSC in Mathematics at the University of Manitoba, Canada
 # Abstract
 Vimentin is a type III intermediate filament protein that plays a crucial role in the structural integrity
